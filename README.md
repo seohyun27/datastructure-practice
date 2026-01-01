@@ -3,7 +3,7 @@
 > 배열, 연결 리스트, 스택/큐, 트리, 그래프 등 핵심 자료구조를 직접 구현하며 동작 원리와 메모리 구조를 학습했습니다.
 
 ## 🛠 Tech Stack
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 
 ## 📌 Note
 - **Feedback & Refactoring**: 'Code'라고 표기된 부분은 초기에 작성한 코드이며, 이후 교수님의 피드백을 반영하여 성능과 가독성을 개선한 코드를 함께 기록했습니다.
